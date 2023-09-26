@@ -6,4 +6,3 @@ const Feature = ({ blok }) => (
   </div>
 );
 
-export default Feature;
